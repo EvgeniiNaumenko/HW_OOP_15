@@ -13,8 +13,6 @@ class BankAccount
 
 public:
 	BankAccount(string, string, int, unsigned int);
-	void withdrawMoney(int);
-	void putMoney(int);
 	unsigned int getMoney();
 	unsigned int getCreditMoney();
 	int getCreditLimit();

@@ -2,6 +2,8 @@
 #include <iostream>
 using namespace std;
 #include "BankAccount.h"
+#include "ArgumentException.h"
+#include "InsufficientFundsException.h"
 
 class ATM
 {

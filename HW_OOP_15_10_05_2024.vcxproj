@@ -132,8 +132,10 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ArgumentException.h" />
     <ClInclude Include="ATM.h" />
     <ClInclude Include="BankAccount.h" />
+    <ClInclude Include="InsufficientFundsException.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

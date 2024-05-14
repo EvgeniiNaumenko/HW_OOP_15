@@ -1,5 +1,4 @@
 #include "BankAccount.h"
-#include "BankAccount.h"
 #include <cmath>
 
 BankAccount::BankAccount(string name, string surname, int bankAcc, unsigned int personalMoney)
@@ -9,22 +8,6 @@ BankAccount::BankAccount(string name, string surname, int bankAcc, unsigned int 
 	_bankAcc = bankAcc;
 	_personalMoney = personalMoney;
 	_creditUse = 0;
-}
-
-void BankAccount::withdrawMoney(int money)
-{
-	if ((_personalMoney + _creditMoney - _creditUse) > money)
-	{
-		int owerM = _personalMoney - money;
-		if (owerM < 0)
-		{
-
-		}
-	}
-}
-
-void BankAccount::putMoney(int)
-{
 }
 
 unsigned int BankAccount::getMoney()

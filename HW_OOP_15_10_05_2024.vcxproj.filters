@@ -32,5 +32,11 @@
     <ClInclude Include="ATM.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ArgumentException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="InsufficientFundsException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
