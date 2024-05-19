@@ -29,11 +29,11 @@ int main()
 	}
 	catch (const ArgumentException& ex) {
 
-		cout << "Îøèáêà: " << ex.what() << endl;
+		cout << "Error: " << ex.what() << endl;
 	}
 	catch (const InsufficientFundsException& ex) {
 		
-		cout << "Îøèáêà: " << ex.what() << endl;
+		cout << "Error: " << ex.what() << endl;
 	}
 	return 0;
 }

@@ -1,4 +1,4 @@
-﻿  ATM.cpp
-D:\ЖЕНЯ\Обучение\ITStep\ДЗ\HW_OOP_2024\HW_OOP_15_10_05_2024\ATM.cpp(13,23): warning C4018: '<': signed/unsigned mismatch
-D:\ЖЕНЯ\Обучение\ITStep\ДЗ\HW_OOP_2024\HW_OOP_15_10_05_2024\ATM.cpp(52,48): warning C4018: '<': signed/unsigned mismatch
+﻿  Source.cpp
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\HW_OOP_2024\HW_OOP_15_10_05_2024\Source.cpp(8,40): warning C4305: 'argument': truncation from '__int64' to 'int'
+D:\ЖЕНЯ\Обучение\ITStep\ДЗ\HW_OOP_2024\HW_OOP_15_10_05_2024\Source.cpp(8,40): warning C4309: 'argument': truncation of constant value
   HW_OOP_15_10_05_2024.vcxproj -> D:\ЖЕНЯ\Обучение\ITStep\ДЗ\HW_OOP_2024\x64\Debug\HW_OOP_15_10_05_2024.exe
